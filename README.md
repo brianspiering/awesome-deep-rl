@@ -29,7 +29,7 @@ Books
 
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (2009)
 - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017)
-- Deep Reinforcement Learning Hands-On
+- Deep Reinforcement Learning Hands-On (2018)
   - [book](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
   - [code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
@@ -37,10 +37,10 @@ Guides
 -----
 
 - Related awesome guides
-  - https://github.com/aikorea/awesome-rl
-  - https://aikorea.org/awesome-rl/
-  - https://github.com/tigerneil/awesome-deep-rl (inspiring but too focused on specific implementations)
-  - https://github.com/adityathakker/awesome-rl-nlp (with nlp for the win)
+  - [awesome-rl #1](https://github.com/aikorea/awesome-rl)
+  - [awesome-rl #2](https://aikorea.org/awesome-rl/)
+  - [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) - inspiring but too focused on specific implementations
+  - [awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp) - with nlp for the win
 - Complete guides
   - http://www.argmin.net/2018/06/25/outsider-rl/
   - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
@@ -78,7 +78,7 @@ Blog Posts
 Video examples
 ------
 
-- https://www.youtube.com/playlist?list=PL5nBAYUyJTrM48dViibyi68urttMlUv7e
+- [Miscellaneous robots learning](https://www.youtube.com/playlist?list=PL5nBAYUyJTrM48dViibyi68urttMlUv7e)
 
 
 Code
@@ -88,3 +88,17 @@ Code
     - Rendered Jupyter Notebooks
       - [MDP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Finite_MDPs/)
       - [DP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Dynamic_Programming/) 
+
+-----
+Contributing
+----
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send me a pull request!
+
+-----
+License
+----
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Dr. Brian J. Spiering](http://www.linkedin.com/in/brianspiering/) has waived all copyright and related or neighboring rights to this work.
+
