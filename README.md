@@ -30,20 +30,25 @@ Books
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (2009)
 - [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017)
 - Deep Reinforcement Learning Hands-On
+  - [book](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
+  - [code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
 Guides
 -----
 
-- http://www.argmin.net/2018/06/25/outsider-rl/
-- https://github.com/aikorea/awesome-rl
-- https://aikorea.org/awesome-rl/
-- https://github.com/tigerneil/awesome-deep-rl (inspiring but not complete)
-- https://github.com/adityathakker/awesome-rl-nlp (& nlp for the win)
-- A Medium Series
-  - https://medium.com/@m.alzantot/deep-reinforcement-learning-demystified-episode-0-2198c05a6124
-  - https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc
-  - https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
- - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+- Related awesome guides
+  - https://github.com/aikorea/awesome-rl
+  - https://aikorea.org/awesome-rl/
+  - https://github.com/tigerneil/awesome-deep-rl (inspiring but too focused on specific implementations)
+  - https://github.com/adityathakker/awesome-rl-nlp (with nlp for the win)
+- Complete guides
+  - http://www.argmin.net/2018/06/25/outsider-rl/
+  - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
+- Short introductions
+  - A Medium Series
+    - https://medium.com/@m.alzantot/deep-reinforcement-learning-demystified-episode-0-2198c05a6124
+    - https://becominghuman.ai/genetic-algorithm-for-reinforcement-learning-a38a5612c4dc
+    - https://medium.com/@m.alzantot/deep-reinforcement-learning-demysitifed-episode-2-policy-iteration-value-iteration-and-q-978f9e89ddaa
 - https://github.com/andri27-ts/60_Days_RL_Challenge
 - https://github.com/jachiam/rl-intro
 - http://planspace.org/20170830-berkeley_deep_rl_bootcamp/
