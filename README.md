@@ -7,12 +7,11 @@ Table of Contents
 - __[Courses ](#courses)__
 - __[Books](#books)__
 - __[Guides](#guides)__
-- __[Talks / Lectures](#talks)__
 - __[Frameworks](#frameworks)__
+- __[Talks / Lectures](#talks)__
 - __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
-- __[Code](#code)__
-- __[Researchers](#researchers)__
+- __[Code](#code-examples)__
 - __[Datasets](#datasets)__
 - __[Contributing](#contributing)__
 
@@ -55,15 +54,21 @@ Guides
 - https://github.com/google/dopamine
 - [OpenAI Baselines](https://github.com/openai/baselines) - a set of high-quality implementations of reinforcement learning algorithms
 
+Frameworks
+----
+
+- OpenAI's Gym: A toolkit for developing and comparing reinforcement learning algorithms
+  - [Overview](https://gym.openai.com/)
+  - [Code](https://github.com/openai/gym)
+- Google's Dopamine: A research framework for fast prototyping of reinforcement learning algorithms
+  - [Overview](https://google.github.io/dopamine/)
+  - [Code](https://github.com/google/dopamine)
+
 Talks
 ----
 
 - TBD
 
-Frameworks
-----
-
-- [OpenAI's Gym](https://gym.openai.com/)
 
 Papers
 ----
@@ -81,13 +86,19 @@ Video examples
 - [Miscellaneous robots learning](https://www.youtube.com/playlist?list=PL5nBAYUyJTrM48dViibyi68urttMlUv7e)
 
 
-Code
+Code Examples
 ------
  - Adventures with Sutton and Barto
   - [Python implementation](https://github.com/levimcclenny/Reinforcement_Learning)
     - Rendered Jupyter Notebooks
       - [MDP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Finite_MDPs/)
       - [DP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Dynamic_Programming/) 
+
+
+Datasets
+----
+
+- TBD
 
 -----
 Contributing
