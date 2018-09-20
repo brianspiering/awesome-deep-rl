@@ -11,7 +11,7 @@ Table of Contents
 - __[Talks / Lectures](#talks)__
 - __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
-- __[Code](#code-examples)__
+- __[Code Examples](#code-examples)__
 - __[Datasets](#datasets)__
 - __[Contributing](#contributing)__
 
@@ -55,7 +55,7 @@ Guides
 - https://github.com/jachiam/rl-intro
 - http://planspace.org/20170830-berkeley_deep_rl_bootcamp/
 - https://github.com/google/dopamine
-- [OpenAI Baselines](https://github.com/openai/baselines): A set of high-quality implementations of reinforcement learning algorithms
+
 
 Frameworks
 ----
@@ -85,11 +85,17 @@ Blog Posts
 Video examples
 ------
 
+- [DL Agent learning to play Atari](https://www.youtube.com/watch?v=MKtNv1UOaZA)
+- [Pong, Tic Tac Toe, and Super Mario with Deep Q-learning](https://www.youtube.com/watch?v=scLTbin8FiQ)
 - [Miscellaneous robots learning](https://www.youtube.com/playlist?list=PL5nBAYUyJTrM48dViibyi68urttMlUv7e)
+
 
 Code Examples
 ------
- - Adventures with Sutton and Barto
+
+- [OpenAI Baselines](https://github.com/openai/baselines): A set of high-quality implementations of reinforcement learning algorithms
+- [Mingo](https://github.com/tensorflow/minigo): An open-source implementation of the AlphaGoZero algorithm 
+- Adventures with Sutton and Barto
   - [Python implementation](https://github.com/levimcclenny/Reinforcement_Learning)
   - Rendered Jupyter Notebooks
     - [MDP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Finite_MDPs/)
@@ -99,12 +105,7 @@ Code Examples
 Datasets
 ----
 
-- MLPerf's benchmark suite for [RL](https://github.com/mlperf/training/tree/master/reinforcement)
-
-Code
------
-
-- [Mingo](https://github.com/tensorflow/minigo): An open-source implementation of the AlphaGoZero algorithm 
+- [MLPerf's benchmark suite for RL](https://github.com/mlperf/training/tree/master/reinforcement)
 
 -----
 Contributing
