@@ -18,8 +18,10 @@ Table of Contents
 Courses
 ----
 1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2018)
-1. [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/course_schedule.html) (2014)
-2. Deep Mind (2015)
+1. [UC Berkeley's CS294-112 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) (2018 Fall)
+1. [Thomas Simonini's Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) (ongoing)
+1. [UC Berkeley's CS188 Intro to AI](http://ai.berkeley.edu/course_schedule.html) (2014)
+1. Deep Mind (2015)
   - [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
   - [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
@@ -41,6 +43,7 @@ Guides
   - [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl): Inspiring but too focused on specific implementations
   - [awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp): NLP for the win
 - Complete guides
+  - [A Beginner's Guide to Deep Reinforcement Learning by skymind](https://skymind.ai/wiki/deep-reinforcement-learning)
   - http://www.argmin.net/2018/06/25/outsider-rl/
   - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
 - Short introductions
@@ -67,38 +70,41 @@ Frameworks
 Talks
 ----
 
-- TBD
-
+- [Deep Reinforcement Learning](https://www.youtube.com/watch?v=PtAIh9KSnjo) by John Schulman (2016)
 
 Papers
 ----
-- TBD
-
+- [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1806.08894) (2018)
+- [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866) (2017)
 
 Blog Posts
 ----
 
-- TBD
+- [Deep Reinforcement Learning — Policy Gradients — Lunar Lander!](https://medium.com/@gabogarza/deep-reinforcement-learning-policy-gradients-8f6df70404e6)
    
 Video examples
 ------
 
 - [Miscellaneous robots learning](https://www.youtube.com/playlist?list=PL5nBAYUyJTrM48dViibyi68urttMlUv7e)
 
-
 Code Examples
 ------
  - Adventures with Sutton and Barto
   - [Python implementation](https://github.com/levimcclenny/Reinforcement_Learning)
-    - Rendered Jupyter Notebooks
-      - [MDP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Finite_MDPs/)
-      - [DP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Dynamic_Programming/) 
+  - Rendered Jupyter Notebooks
+    - [MDP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Finite_MDPs/)
+    - [DP](http://people.tamu.edu/~levimcclenny/project/reinforcement-learning/Barto_Sutton_RL/Dynamic_Programming/) 
 
 
 Datasets
 ----
 
-- TBD
+- MLPerf's benchmark suite for [RL](https://github.com/mlperf/training/tree/master/reinforcement)
+
+Code
+-----
+
+- [Mingo](https://github.com/tensorflow/minigo): An open-source implementation of the AlphaGoZero algorithm 
 
 -----
 Contributing
@@ -112,4 +118,3 @@ License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Dr. Brian J. Spiering](http://www.linkedin.com/in/brianspiering/) has waived all copyright and related or neighboring rights to this work.
-
