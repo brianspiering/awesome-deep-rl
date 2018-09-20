@@ -27,8 +27,8 @@ Books
 -----
 
 - [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (2009)
-- [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](http://incompleteideas.net/book/bookdraft2017nov5.pdf) (2017)
-- Deep Reinforcement Learning Hands-On (2018)
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton and Andrew G. Barto (2017)
+- Deep Reinforcement Learning Hands-On by Maxim Lapan (2018)
   - [book](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
   - [code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
@@ -38,8 +38,8 @@ Guides
 - Related awesome guides
   - [awesome-rl #1](https://github.com/aikorea/awesome-rl)
   - [awesome-rl #2](https://aikorea.org/awesome-rl/)
-  - [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) - inspiring but too focused on specific implementations
-  - [awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp) - with nlp for the win
+  - [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl): Inspiring but too focused on specific implementations
+  - [awesome-rl-nlp](https://github.com/adityathakker/awesome-rl-nlp): NLP for the win
 - Complete guides
   - http://www.argmin.net/2018/06/25/outsider-rl/
   - https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html
@@ -52,7 +52,7 @@ Guides
 - https://github.com/jachiam/rl-intro
 - http://planspace.org/20170830-berkeley_deep_rl_bootcamp/
 - https://github.com/google/dopamine
-- [OpenAI Baselines](https://github.com/openai/baselines) - a set of high-quality implementations of reinforcement learning algorithms
+- [OpenAI Baselines](https://github.com/openai/baselines): A set of high-quality implementations of reinforcement learning algorithms
 
 Frameworks
 ----
