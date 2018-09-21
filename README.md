@@ -74,8 +74,16 @@ Talks
 
 Papers
 ----
-- [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1806.08894) (2018)
-- [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866) (2017)
+
+Survey:
+  - [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1806.08894) (2018)
+  - [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866) (2017)
+
+Results:
+  - Learning to Optimize Join Queries With Deep Reinforcement Learning
+    - [Technical paper](https://arxiv.org/abs/1808.03196)
+    - [Technical blog post](https://databeta.wordpress.com/2018/09/20/the-crossroads-of-ai-and-database-algorithms-query-optimization/)
+    - [Nontechnical blog post])(https://databeta.wordpress.com/2018/09/20/the-crossroads-of-ai-and-database-algorithms-query-optimization/)
 
 Blog Posts
 ----
