@@ -20,6 +20,7 @@ Courses
 1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2018)
 1. [UC Berkeley's CS294-112 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) (2018 Fall)
 1. [Thomas Simonini's Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) (ongoing)
+1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) (2017)
 1. [UC Berkeley's CS188 Intro to AI](http://ai.berkeley.edu/course_schedule.html) (2014)
 1. Deep Mind (2015)
   - [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
