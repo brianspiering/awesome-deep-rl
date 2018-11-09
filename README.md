@@ -78,6 +78,8 @@ Talks
 Papers
 ----
 
+OpenAI's [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)   
+
 Survey:
   - [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1806.08894) (2018)
   - [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866) (2017)
