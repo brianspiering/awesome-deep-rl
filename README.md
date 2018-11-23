@@ -18,7 +18,7 @@ Table of Contents
 Courses
 ----
 1. [DeepMind's Advanced Deep Learning & Reinforcement Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/undergrad/compmi22_advanced_deep_learning_and_reinforcement_learning/) (2018)
-  - [Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 
+    - [Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 
 1. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) (2018)
 1. [Georgia Tech's CS 8803 Deep Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2018)
@@ -27,8 +27,8 @@ Courses
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) (2017)
 1. [UC Berkeley's CS188 Intro to AI](http://ai.berkeley.edu/course_schedule.html) (2014)
 1. Deep Mind (2015)
-  - [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-  - [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+    - [Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+    - [Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 Books
 -----
