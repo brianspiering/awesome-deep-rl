@@ -20,7 +20,7 @@ Courses
 1. [DeepMind's Advanced Deep Learning & Reinforcement Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/undergrad/compmi22_advanced_deep_learning_and_reinforcement_learning/) (2018)
     - [Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 
 1. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) (2018)
-1. [Georgia Tech's CS 8803 Deep Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+1. [Georgia Tech's CS 8803 Deep Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (2018?)
 1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2018)
 1. [UC Berkeley's CS294-112 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) (2018 Fall)
 1. [Thomas Simonini's Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) (ongoing)
@@ -78,6 +78,7 @@ Talks
 ----
 
 - [Deep Reinforcement Learning](https://www.youtube.com/watch?v=PtAIh9KSnjo) by John Schulman (2016)
+- [Deep Robotic Learning](https://www.youtube.com/watch?v=eKaYnXQUb2g) by Sergey Levine (2017)
 
 Papers
 ----
@@ -98,6 +99,7 @@ Blog Posts
 ----
 
 - [Deep Reinforcement Learning — Policy Gradients — Lunar Lander!](https://medium.com/@gabogarza/deep-reinforcement-learning-policy-gradients-8f6df70404e6)
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy
    
 Video examples
 ------
