@@ -33,8 +33,8 @@ Courses
 Books
 -----
 
-- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (2009)
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton and Andrew G. Barto (2017)
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) by Csaba Szepesvari (updated 2019)
 - Deep Reinforcement Learning Hands-On by Maxim Lapan (2018)
   - [book](https://www.amazon.com/Deep-Reinforcement-Learning-Hands-Q-networks/dp/1788834240)
   - [code](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
