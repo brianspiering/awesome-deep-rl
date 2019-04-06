@@ -7,12 +7,14 @@ Table of Contents
 - __[Courses ](#courses)__
 - __[Books](#books)__
 - __[Guides](#guides)__
-- __[Frameworks](#frameworks)__
+- __[Guides](#guides)__
 - __[Talks / Lectures](#talks)__
 - __[Papers](#papers)__
 - __[Blog Posts](#blog-posts)__
+- __[Video examples](#video-examples)__ 
 - __[Code Examples](#code-examples)__
 - __[Datasets](#datasets)__
+- __[Frameworks](#frameworks)__
 - __[Contributing](#contributing)__
 
 Courses
@@ -63,20 +65,12 @@ Guides
 - http://planspace.org/20170830-berkeley_deep_rl_bootcamp/
 - https://github.com/google/dopamine
 
-
-Frameworks
-----
-
-- OpenAI's Gym: A toolkit for developing and comparing reinforcement learning algorithms
-  - [Overview](https://gym.openai.com/)
-  - [Code](https://github.com/openai/gym)
-- Google's Dopamine: A research framework for fast prototyping of reinforcement learning algorithms
-  - [Overview](https://google.github.io/dopamine/)
-  - [Code](https://github.com/google/dopamine)
-
 Talks
 ----
 
+- Reinforcement Learning for the People and/or by the People by Emma Brunskill (2017)
+    - [slides](https://cs.stanford.edu/people/ebrun/NIPS_2017_tutorial_brunskill.pdf)
+    - [video](https://www.facebook.com/nipsfoundation/videos/1555771847847382/)
 - [Deep Reinforcement Learning](https://www.youtube.com/watch?v=PtAIh9KSnjo) by John Schulman (2016)
 - [Deep Robotic Learning](https://www.youtube.com/watch?v=eKaYnXQUb2g) by Sergey Levine (2017)
 
@@ -126,6 +120,16 @@ Datasets
 
 - [MLPerf's benchmark suite for RL](https://github.com/mlperf/training/tree/master/reinforcement)
 
+Frameworks
+----
+
+- OpenAI's Gym: A toolkit for developing and comparing reinforcement learning algorithms
+  - [Overview](https://gym.openai.com/)
+  - [Code](https://github.com/openai/gym)
+- Google's Dopamine: A research framework for fast prototyping of reinforcement learning algorithms
+  - [Overview](https://google.github.io/dopamine/)
+  - [Code](https://github.com/google/dopamine)
+  
 -----
 Contributing
 ----
