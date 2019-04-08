@@ -19,11 +19,12 @@ Table of Contents
 
 Courses
 ----
+1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2019)
+    - [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 1. [DeepMind's Advanced Deep Learning & Reinforcement Learning](http://www.cs.ucl.ac.uk/current_students/syllabus/undergrad/compmi22_advanced_deep_learning_and_reinforcement_learning/) (2018)
     - [Videos](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) 
 1. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) (2018)
 1. [Georgia Tech's CS 8803 Deep Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (2018?)
-1. [Stanford’s CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html) (2018)
 1. [UC Berkeley's CS294-112 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) (2018 Fall)
 1. [Thomas Simonini's Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) (ongoing)
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) (2017)
