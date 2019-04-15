@@ -69,6 +69,9 @@ Guides
 Talks
 ----
 
+- Introduction to Deep Reinforcement Learning by Lex Fridman (2019)
+    - [slides](https://www.dropbox.com/s/wekmlv45omd266o/deep_rl_intro.pdf?dl=0)
+    - [video](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 - Reinforcement Learning for the People and/or by the People by Emma Brunskill (2017)
     - [slides](https://cs.stanford.edu/people/ebrun/NIPS_2017_tutorial_brunskill.pdf)
     - [video](https://www.facebook.com/nipsfoundation/videos/1555771847847382/)
