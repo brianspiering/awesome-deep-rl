@@ -26,7 +26,7 @@ Courses
 1. [OpenAI's Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) (2018)
 1. [Georgia Tech's CS 8803 Deep Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (2018?)
 1. [UC Berkeley's CS294-112 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) (2018 Fall)
-1. [Thomas Simonini's Deep Reinforcement Learning Course 🕹️](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) (ongoing)
+1. [The Hugging Face Deep Reinforcement Learning Class 🤗](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-) (ongoing)
 1. [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) (2017)
 1. [UC Berkeley's CS188 Intro to AI](http://ai.berkeley.edu/course_schedule.html) (2014)
 1. Deep Mind (2015)
